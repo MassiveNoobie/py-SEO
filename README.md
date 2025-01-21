@@ -2,7 +2,7 @@
 In this repo i will share python seo scripts to help you increase your google ranking, however I suggest nothing goes full automated mode until you're really happy with the human in the loop systems I will be sharing here.
 
 # why
-Hey, how's it going C. C my friend I'm teaching SEO. In process i'm giving away all of the tools openly here.
+C my friend I'm teaching SEO. In process i'm giving away all of the tools openly here. If i typing saying C, i can teach this easier.
 
 You don't know seo, and learning it can be a rabbit hole, I want to make it easy.
 
@@ -22,7 +22,7 @@ It works. If you cut out the ones that dont get traffic, and manage the rss feed
 I created https://tylergarrett.com as a test example, All (41,339) | Published (41,305) | the traffic swells as you get going on this and if you have a good enough looking website, you often trick people into hanging out a little longer. I found mixing news in a system I designed was the best practice. Then I sneak in some healthy little blue friends, blacklinks to whatever I need to go up or down.
 
 #why people seeing your SEO is a big deal
-Yo, people see that C, with websites like moz, ahrefs, etc (companies make money doing the opposite of what google search console does) and they try to down grade you how they know how. It's easier to make you go down VS up.
+people see that C, with websites like moz, ahrefs, etc (companies make money doing the opposite of what google search console does) and they try to down grade you how they know how. It's easier to make you go down VS up.
 
 You can see their seo, moz has a free app you can use 3 times per day. just dont go down the rabbit hole, it gets dark down there and pointless.
 
